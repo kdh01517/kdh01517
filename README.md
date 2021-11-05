@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=300&section=header&text=DongHyun Kim&fontSize=70" />
 </p>
-## 👋 ABOUT ME 👋
-
----
+## Profile
+- Computer engineering, School of Engineering, Myungji University
+- 42 Seoul
+--
 
 **⚡️Badges :** ![42](https://badgen.net/badge/Born2Code/donghyki/yellow?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdh01517)
 
