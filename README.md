@@ -10,7 +10,6 @@
 - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) 
 
-
+[![kdh01517's github stats](https://github-readme-stats.vercel.app/api?username=kdh01517&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdh01517&layout=compact&exclude_repo=study&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh01517&layout=compact)](https://solved.ac/kdh01517/) 
 [![donghyki's 42 stats](https://badge42.herokuapp.com/api/stats/donghyki?privacyEmail=true&layout=compact)](https://github.com/JaeSeoKim/badge42)
-[![kdh01517's github stats](https://github-readme-stats.vercel.app/api?username=kdh01517&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdh01517&layout=compact&exclude_repo=study&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
